@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038012539800",
+    "project_id": "pizza-checker-59b94",
+    "storage_bucket": "pizza-checker-59b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038012539800:android:f8f9bb32677ff2d93001ed",
+        "android_client_info": {
+          "package_name": "com.pizza.checker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AeV_zrJMCppML_qjuSiFiytKyBoPnPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
