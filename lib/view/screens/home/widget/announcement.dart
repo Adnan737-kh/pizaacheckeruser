@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_restaurant/utill/dimensions.dart';
 import 'package:flutter_restaurant/view/screens/home/widget/marque_text.dart';
 
+
 class AnnouncementView extends StatelessWidget {
   final String? announcement;
   const AnnouncementView({Key? key, this.announcement}) : super(key: key);

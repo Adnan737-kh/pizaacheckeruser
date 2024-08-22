@@ -159,7 +159,8 @@ class _OrderTrackingScreenState extends State<OrderTrackingScreen> {
                         AddressModel? address;
                         if(locationProvider.addressList != null){
                           for(int i = 0 ; i< locationProvider.addressList!.length; i++) {
-                            if(locationProvider.addressList![i].id == orderProvider.trackModel!.deliveryAddressId) {
+                            if(locationProvider.addressList![i].id ==
+                                orderProvider.trackModel!.deliveryAddressId) {
                               address = locationProvider.addressList![i];
                             }
                           }

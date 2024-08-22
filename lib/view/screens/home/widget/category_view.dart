@@ -12,6 +12,7 @@ import 'package:flutter_restaurant/view/screens/home/widget/category_pop_up.dart
 import 'package:provider/provider.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 
+
 class CategoryView extends StatelessWidget {
   const CategoryView({Key? key}) : super(key: key);
   @override

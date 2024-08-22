@@ -3,7 +3,7 @@ import 'package:flutter_restaurant/helper/app_mode.dart';
 import 'package:flutter_restaurant/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'Pizza Checker';
+  static const String appName = 'Checker Pizza';
   static const String appVersion = '10.2';
   static const AppMode appMode = AppMode.release;
   static const String baseUrl =  'https://backend.pizzachecker.net';

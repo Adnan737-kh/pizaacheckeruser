@@ -28,7 +28,7 @@
     </queries>
 
     <application
-        android:label="Pizza Checker"
+        android:label="Checker Pizza"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
