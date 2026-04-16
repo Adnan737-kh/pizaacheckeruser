@@ -1,16 +1,58 @@
-# flutter_restaurant
+# 🍕 Pizza Checker - User App
 
-A new Flutter restaurant application.
+Pizza Checker is a Flutter-based food ordering application that allows users to بسهولة order their favorite pizzas, track deliveries in real-time, and receive instant updates.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🍔 Browse food items & pizza menu
+- 🛒 Add to cart & place orders
+- 📍 Real-time order tracking
+- 🔔 Push notifications (order updates, offers)
+- 💳 Easy checkout process
+- 👤 User profile management
+- 📦 Order history
+- 🔍 Search & filter food items
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Flow
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. User signs up / logs in  
+2. Browses menu & selects items  
+3. Adds items to cart  
+4. Places order  
+5. Tracks order in real-time  
+6. Receives delivery  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging (FCM)
+- Google Maps API
+
+## 📂 Project Structure
+
+```
+lib/
+│── models/
+│── screens/
+│── widgets/
+│── services/
+│── utils/
+
+
+## 🔑 Requirements
+
+- Flutter SDK
+- Android Studio / VS Code
+- Firebase configured project
+
+
+## 👨‍💻 Developer
+
+Adnan Malik  
+Flutter Developer
+
+---
+
+⭐ If you like this project, don’t forget to star the repo!
