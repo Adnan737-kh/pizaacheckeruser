@@ -2,6 +2,12 @@
 
 Pizza Checker is a Flutter-based food ordering application that allows users to بسهولة order their favorite pizzas, track deliveries in real-time, and receive instant updates.
 
+---
+
+## 📱 App Screenshots
+Main Page 
+![Splash](screenshots/main.png)
+
 ## 🚀 Features
 
 - 🍔 Browse food items & pizza menu
